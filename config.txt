@@ -1,0 +1,5 @@
+HEIGHT: 5
+WIDTH: 5
+BLOCK: agent 0 1
+BLOCK: moving_obstacle 1 1
+BLOCK: moving_obstacle 2 1
